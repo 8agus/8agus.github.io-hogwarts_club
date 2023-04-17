@@ -69,19 +69,19 @@ section div {
 
 .box3 {
     grid-area: box3;
-    background-image: url("img/harry_potter.jpeg");
+    background-image: url("../img/harry_potter.jpeg");
     background-size: 108%;
 }
 
 .box4 {
     grid-area: box4;
-    background-image: url("img/hermione.jpeg");
+    background-image: url("../img/hermione.jpeg");
     background-size: 120%;
 }
 
 .box5 {
     grid-area: box5;
-    background-image: url("img/ron.jpeg");
+    background-image: url("../img/ron.jpeg");
     background-size: 120%;
 }
 
@@ -112,43 +112,43 @@ section div {
 
 .box12 {
     grid-area: box12;
-    background-image: url("img/antonin_dolohov.jpg");
+    background-image: url("../img/antonin_dolohov.jpg");
     background-size: 100%;
 }
 
 .box13 {
     grid-area: box13;
-    background-image: url("img/bellatrix_lestrange.jpeg");
+    background-image: url("../img/bellatrix_lestrange.jpeg");
     background-size: 100%;
 }
 
 .box14 {
     grid-area: box14;
-    background-image: url("img/draco_malfoy.png");
+    background-image: url("../img/draco_malfoy.png");
     background-size: 100%;
 }
 
 .box15 {
     grid-area: box15;
-    background-image: url("img/phineas_black.png");
+    background-image: url("../img/phineas_black.png");
     background-size: 100%;
 }
 
 .box16 {
     grid-area: box16;
-    background-image: url("resources/images/quirrell.jpeg");
+    background-image: url("../resources/images/quirrell.jpeg");
     background-size: 100%;
 }
 
 .box17 {
     grid-area: box17;
-    background-image: url("img/severus-snape.jpeg");
+    background-image: url("../img/severus-snape.jpeg");
     background-size: 100%;
 }
 
 .box18 {
     grid-area: box18;
-    background-image: url("img/lord_voldemort.jpeg");
+    background-image: url("../img/lord_voldemort.jpeg");
     background-size: 100%;
 }
 
